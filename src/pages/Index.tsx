@@ -46,7 +46,7 @@ Message: ${formData.message}
 
   // Updated projects from resume
   const projects = [{
-    title: "E-Commerce Website --- ShopHub",
+    title: "E-Commerce Website - ShopHub",
     description: "Designed and developed a responsive and user-friendly e-commerce platform. Implemented product filtering, cart management, and a mock checkout flow. Integrated state management with Redux for efficient cart and product handling.",
     tech: ["React.js", "Tailwind CSS", "Redux Toolkit", "Vercel"],
     github: "https://github.com/harichandernaik",
