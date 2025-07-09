@@ -208,7 +208,7 @@ Message: ${formData.message}
           }} className="flex justify-center">
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur-2xl opacity-20 scale-110"></div>
-                <img src="public/assets/profile.jpg" alt="Hari Chander Naik" className="relative w-80 h-80 rounded-full object-cover shadow-2xl" />
+                <img src="hcnportfolio/public/assets/profile.jpg" alt="Hari Chander Naik" className="relative w-80 h-80 rounded-full object-cover shadow-2xl" />
               </div>
             </motion.div>
           </div>
@@ -442,9 +442,9 @@ Message: ${formData.message}
                   <DialogTitle>Resume - Hari Chander Naik</DialogTitle>
                 </DialogHeader>
                 <div className="mt-4 space-y-4">
-                  <img src="public/assets/resume1.png" alt="Hari Chander Naik Resume - Page 1" className="w-full h-auto rounded-lg shadow-lg" />
-                  <img src="public/assets/resume2.png" alt="Hari Chander Naik Resume - Page 2" className="w-full h-auto rounded-lg shadow-lg" />
-                  <img src="public/assets/resume3.png" alt="Hari Chander Naik Resume - Page 3" className="w-full h-auto rounded-lg shadow-lg" />
+                  <img src="hcnportfolio/public/assets/resume1.png" alt="Hari Chander Naik Resume - Page 1" className="w-full h-auto rounded-lg shadow-lg" />
+                  <img src="hcnportfolio/public/assets/resume2.png" alt="Hari Chander Naik Resume - Page 2" className="w-full h-auto rounded-lg shadow-lg" />
+                  <img src="hcnportfolio/public/assets/resume1.png" alt="Hari Chander Naik Resume - Page 3" className="w-full h-auto rounded-lg shadow-lg" />
                 </div>
               </DialogContent>
             </Dialog>
